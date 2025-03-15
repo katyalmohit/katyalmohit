@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @katyalmohit
-- 👀 I’m interested in open source development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on open source web development projects
-- 📫 You can reach me via email at ktylmohit@gmail.com, on GitHub at katyalmohit, or on LinkedIn at https://www.linkedin.com/in/katyalmohit/
-
+- 👋 Hi, I’m @katyalmohit, a passionate developer with a keen interest in open source development.
+- 👀 I thrive on building innovative solutions and contributing to the community.
+- <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter Icon" width="15" height="15"> I specialize in Flutter development, crafting beautiful and responsive mobile applications.
+- 💞️ I’m eager to collaborate on impactful open source projects that make a difference.
+- 📫 Feel free to reach out to me via [email](mailto:ktylmohit@gmail.com), on [GitHub](https://github.com/katyalmohit), or on [LinkedIn](https://www.linkedin.com/in/katyalmohit/).
